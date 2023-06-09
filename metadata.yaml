@@ -1,5 +1,8 @@
 _repo: The-early-Plantagenets_70828
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70828-h/images/cover.jpg
 creator:
   author:
     agent_name: Stubbs, William
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55916
     wikipedia: https://en.wikipedia.org/wiki/William_Stubbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70828#The-early-Plantagenets
 gutenberg_issued: '2023-05-21'
 identifiers:
   gutenberg: '70828'
